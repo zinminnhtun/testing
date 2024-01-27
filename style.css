@@ -1,0 +1,8 @@
+h1{
+    color: white;
+    border: 1px;
+    border-left-color: aqua;
+    background-color: rgb(98, 136, 138);
+    text-align: center;
+    height: 500px;
+}
